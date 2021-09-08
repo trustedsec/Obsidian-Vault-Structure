@@ -5,9 +5,9 @@ aliases: []
 tags: #📖
 ---
 
-Primary Categories: [[01 - Administration]]
-Secondary Categories:  [[02 - Obsidian]] - [[02 - Resources]]
-Links: [[Automation]] - [[Templates]] - [[Github]]
+Primary Categories: [[01 - Administration]]  
+Secondary Categories:  [[02 - Obsidian]] - [[02 - Resources]]  
+Links: [[Automation]] - [[Templates]] - [[Github]]  
 Search Tag: #📖  
 
 # [[Templater]]

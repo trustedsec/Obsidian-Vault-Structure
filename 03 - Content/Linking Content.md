@@ -5,9 +5,9 @@ aliases: []
 tags: #📖
 ---
 
-Primary Categories: [[01 - Administration]]
-Secondary Categories:  [[02 - Obsidian]] - [[02 - Resources]]
-Links: [[Linking]] - [[Zettlekasten]] - [[Data Discovery]]
+Primary Categories: [[01 - Administration]]  
+Secondary Categories:  [[02 - Obsidian]] - [[02 - Resources]]  
+Links: [[Linking]] - [[Zettlekasten]] - [[Data Discovery]]  
 Search Tag: #📖  
 
 # [[Linking Content]]

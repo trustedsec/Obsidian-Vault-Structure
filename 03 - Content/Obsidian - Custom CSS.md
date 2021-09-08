@@ -5,9 +5,9 @@ aliases: []
 tags: #📖
 ---
 
-Primary Categories: [[01 - Administration]]
-Secondary Categories:  [[02 - Obsidian]] - [[02 - Resources]]
-Links: [[CSS]] - [[Styling]] - [[Customization]]
+Primary Categories: [[01 - Administration]]  
+Secondary Categories:  [[02 - Obsidian]] - [[02 - Resources]]  
+Links: [[CSS]] - [[Styling]] - [[Customization]]  
 Search Tag: #📖  
 
 # [[Obsidian - Custom CSS]]  

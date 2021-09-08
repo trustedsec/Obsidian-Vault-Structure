@@ -5,9 +5,9 @@ aliases: []
 tags: #📖
 ---
 
-Primary Categories: [[01 - Administration]]
-Secondary Categories:  [[02 - Obsidian]] - [[02 - Resources]]
-Links: [[Synchronization]] - [[Git]] - [[Plugins]] - [[Required]]
+Primary Categories: [[01 - Administration]]  
+Secondary Categories:  [[02 - Obsidian]] - [[02 - Resources]]  
+Links: [[Synchronization]] - [[Git]] - [[Plugins]] - [[Required]]  
 Search Tag: #📖  
 
 # [[Obsidian Git]]

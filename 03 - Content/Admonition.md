@@ -6,9 +6,9 @@ aliases: []
 tags: #📖
 ---
 
-Primary Categories: [[01 - Administration]]
-Secondary Categories:  [[02 - Obsidian]] - [[02 - Resources]]
-Links: [[Plugin]] - [[Style]]
+Primary Categories: [[01 - Administration]]  
+Secondary Categories:  [[02 - Obsidian]] - [[02 - Resources]]  
+Links: [[Plugin]] - [[Style]]  
 Search Tag: #📖  
 
 # [[Admonition]]:
@@ -29,8 +29,6 @@ Adds admonition block-styled content to Obsidian.md, styled after [Material for 
 	1. 'copy' button permitting the copying of content directly from the blocks 
 	
 ___
-
-## Resources:
 
 ## Resources:
 

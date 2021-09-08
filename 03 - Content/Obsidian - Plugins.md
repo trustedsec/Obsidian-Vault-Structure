@@ -5,20 +5,20 @@ aliases: [plugin, obsidian - plugin, plugins]
 tags: #📖
 ---
 
-Primary Categories: [[01 - Administration]]
-Secondary Categories: [[02 - Obsidian]] - [[02 - Resources]]
-Links: [[Plugins]] - [[Required]] - [[Configuration]]
+Primary Categories: [[01 - Administration]]  
+Secondary Categories: [[02 - Obsidian]] - [[02 - Resources]]  
+Links: [[Plugins]] - [[Required]] - [[Configuration]]  
 Search Tag: #📖  
 
 # [[Obsidian - Plugins]]  
 
 ## Required
-[[Obsidian Git]]
-[[Templater]]
+[[Obsidian Git]]  
+[[Templater]]  
 
 ## Additional
-[[Dataview]]
-[[Admonition]]
+[[Dataview]]  
+[[Admonition]]  
 
 ___
 
