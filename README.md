@@ -1,0 +1,1 @@
+# Obsidian-Vault-Structure
