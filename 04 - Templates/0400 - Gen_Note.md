@@ -140,7 +140,7 @@ async function setMetadata(inTag) {
 // Name: setTimestamps
 // Description: Builds the timestamps element appended to note pages as they're built. Includes the definition of the Modified Date dynamic element which is updated when the page is edited and shown at the time of the page being rendered in preview mode.
 async function setTimestamps() {
-	var timestamps = "\nCreated Date: " + tp.file.creation_date('MMMM Do YYYY (hh:ss a)') + "  \nLast Modified Date: <%+tp.file.last_modified_date(\"MMMM Do YYYY (hh:ss a)\")%>";
+	var timestamps = "\nCreated Date: " + tp.file.creation_date('MMMM Do YYYY (hh:ss a)') + "\nLast Modified Date: " + tp.file.last_modified_date('MMMM Do YYYY (hh:ss a)');
 	
 	return timestamps;
 }
